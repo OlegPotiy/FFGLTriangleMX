@@ -1,6 +1,6 @@
 TriangleMX FFGL mixer plugin
 ==============
-TriangleMX is a FreeFrameGL mixer plugin for FFGL-hosts like(?) Resolume. 
+TriangleMX is a FreeFrameGL mixer plugin for FFGL-hosts like Resolume Arena. 
 
 TriangleMX mixer combines two video layers using triangle mesh pattern. The screen area is divided into two triangle strips and every triangle is textured with curtain input layer. Blending factor controls texture mapping for different triangles (see docs and demos for details).
 
