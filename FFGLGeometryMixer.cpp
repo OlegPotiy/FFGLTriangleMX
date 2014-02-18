@@ -12,7 +12,7 @@ static CFFGLPluginInfo PluginInfo (
 	1,									// Plugin major version number
 	000,								// Plugin minor version number
 	FF_EFFECT,							// Plugin type
-	"FFGL Geometry Mixer",				// Plugin description
+	"FFGL Triangle MX",				// Plugin description
 	"by Oleg Potiy"						// About
 	);
 
