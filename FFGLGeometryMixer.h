@@ -51,7 +51,6 @@ private:
 	TexPattern pattern;
 
 	// Effects implementation
-	DWORD HorizontalSlide(ProcessOpenGLStruct* pGL);
 	DWORD TriangleMeshMix(ProcessOpenGLStruct* pGL);
 
 	DWORD ScalableTriangleMeshMix(ProcessOpenGLStruct* pGL);
